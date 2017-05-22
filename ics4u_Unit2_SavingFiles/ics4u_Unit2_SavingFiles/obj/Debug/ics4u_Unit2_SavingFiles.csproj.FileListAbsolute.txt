@@ -1,0 +1,12 @@
+c:\users\i.mctavish\documents\visual studio 2012\Projects\ics4u_Unit2_SavingFiles\ics4u_Unit2_SavingFiles\bin\Debug\ics4u_Unit2_SavingFiles.exe.config
+c:\users\i.mctavish\documents\visual studio 2012\Projects\ics4u_Unit2_SavingFiles\ics4u_Unit2_SavingFiles\obj\Debug\ics4u_Unit2_SavingFiles.csprojResolveAssemblyReference.cache
+c:\users\i.mctavish\documents\visual studio 2012\Projects\ics4u_Unit2_SavingFiles\ics4u_Unit2_SavingFiles\obj\Debug\ics4u_Unit2_SavingFiles.Form1.resources
+c:\users\i.mctavish\documents\visual studio 2012\Projects\ics4u_Unit2_SavingFiles\ics4u_Unit2_SavingFiles\obj\Debug\ics4u_Unit2_SavingFiles.frmText.resources
+c:\users\i.mctavish\documents\visual studio 2012\Projects\ics4u_Unit2_SavingFiles\ics4u_Unit2_SavingFiles\obj\Debug\ics4u_Unit2_SavingFiles.Properties.Resources.resources
+c:\users\i.mctavish\documents\visual studio 2012\Projects\ics4u_Unit2_SavingFiles\ics4u_Unit2_SavingFiles\obj\Debug\ics4u_Unit2_SavingFiles.csproj.GenerateResource.Cache
+c:\users\i.mctavish\documents\visual studio 2012\Projects\ics4u_Unit2_SavingFiles\ics4u_Unit2_SavingFiles\bin\Debug\ics4u_Unit2_SavingFiles.exe
+c:\users\i.mctavish\documents\visual studio 2012\Projects\ics4u_Unit2_SavingFiles\ics4u_Unit2_SavingFiles\bin\Debug\ics4u_Unit2_SavingFiles.pdb
+c:\users\i.mctavish\documents\visual studio 2012\Projects\ics4u_Unit2_SavingFiles\ics4u_Unit2_SavingFiles\obj\Debug\ics4u_Unit2_SavingFiles.exe
+c:\users\i.mctavish\documents\visual studio 2012\Projects\ics4u_Unit2_SavingFiles\ics4u_Unit2_SavingFiles\obj\Debug\ics4u_Unit2_SavingFiles.pdb
+c:\users\i.mctavish\documents\visual studio 2012\Projects\ics4u_Unit2_SavingFiles\ics4u_Unit2_SavingFiles\obj\Debug\ics4u_Unit2_SavingFiles.frmXml.resources
+C:\Users\i.mctavish\documents\visual studio 2012\Projects\ics4u_Unit2_SavingFiles\ics4u_Unit2_SavingFiles\obj\Debug\ics4u_Unit2_SavingFiles.frmBinary.resources
